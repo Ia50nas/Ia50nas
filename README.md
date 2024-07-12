@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Iason Iacovides</h1>
 <h3 align="center">A passionate Computer Science student from Cyprus.</h3>
 
-- 🌱 I’m currently learning **Web development concepts in python and game development using java**
+- 🌱 I’m currently learning: **Web development concepts in python and game development using java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ia50nas?tab=repositories](https://github.com/Ia50nas?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Ia50nas?tab=repositories](https://github.com/Ia50nas?tab=repositories)
 
-- 💬 Ask me about **Any of my projects and ideas**
+- 💬 Ask me about: **Any of my projects and ideas**
 
-- 📫 How to reach me **My profile has links for both my Linked In and instagram**
+- 📫 How to reach me: **My profile has links for both my Linked In and instagram**
 
-- ⚡ Fun fact **I love creating projects with interesting and interactive concepts.**
+- ⚡ Fun fact: **I love creating projects with interesting and interactive concepts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
